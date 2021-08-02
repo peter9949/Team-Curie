@@ -5,10 +5,10 @@
 
 class Sophie {
     public static void main(String[] args) {
-        String name = "Sophie Fang\n";
-        String email = "fangx@bu.edu\n";
-        String slack = "@Sophie\n";
-        String biostack = "Software Development\n";
-        System.out.println("Name: " + name + "Email: " + email + "Slack: " + slack + "Biostack: " + biostack);
+        String name = "Sophie Fang";
+        String email = "fangx@bu.edu";
+        String slack = "@Sophie";
+        String biostack = "Software Development";
+        System.out.println( name + ", " + email + ", " + slack + ", " + biostack);
     }
 }
