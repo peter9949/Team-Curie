@@ -3,4 +3,4 @@ name = "Peter"
 email: str = "fassankpeter@gmail.com"
 slack_username: str = "@Peter"
 biostack = "transcriptomics"
-print(name, email, slack_username, biostack)
+print("{0}, {1}, {2}, {3}".format(name, email, slack_username, biostack))
