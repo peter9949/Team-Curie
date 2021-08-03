@@ -20,4 +20,4 @@ Contributors - Names (Pictures if any !) to be listed starting from Team Lead Na
 
 ![Ayush Panda] <img src="https://user-images.githubusercontent.com/88286571/127991916-75e8ca85-abd2-48a2-bd89-9a01f29e32fb.jpg" width="200" height="200">
 
-![Karteek Akshinthala] <img src = "https://user-images.githubusercontent.com/88286218/128034802-eb506767-ff19-48bf-82cb-80f35d4ac8fe.jpg" width"200" height="200">
+![Karteek Akshinthala] <img src="https://user-images.githubusercontent.com/88286218/128034802-eb506767-ff19-48bf-82cb-80f35d4ac8fe.jpg" width="200" height="200">
