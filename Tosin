@@ -1,0 +1,6 @@
+@@ -1,4 +1,4 @@
+email: str = "tosin.akinola.at@gmail.com"
+slack_username = "@Tosin"
+biostack = "drug development"
+-print(name, email, slack_username, biostack)
++print("{0}, {1}, {2}, {3}" .format(name, email, slack_username, biostack))
