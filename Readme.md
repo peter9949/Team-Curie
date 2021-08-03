@@ -11,5 +11,5 @@ Pictures - Pictures if any !
 ![Akinola Tosin] <img src="https://user-images.githubusercontent.com/88287437/127900471-77d70513-0639-47c2-8e22-03df0160479e.jpg" width="200" height="250">
 
 Umasri Sankarlal
-![umasrisankarlal<img src="https://user-images.githubusercontent.com/77769613/127956061-98baa36d-4052-4916-8c4c-ac995c26fc25.jpg" width="200" height="250")
+![umasrisankarlal] <img src="https://user-images.githubusercontent.com/77769613/127956061-98baa36d-4052-4916-8c4c-ac995c26fc25.jpg" width="200" height="250">
 
