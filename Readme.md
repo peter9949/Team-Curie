@@ -18,4 +18,4 @@ Contributors - Names (Pictures if any !) to be listed starting from Team Lead Na
 
 ![Darshana Joshi] <img src="https://user-images.githubusercontent.com/83279269/127975947-e5a94358-1e88-4011-8261-61da4f35b40f.jpg" width="200" height="200">
 
-![Ayush Panda](https://user-images.githubusercontent.com/88286571/127991916-75e8ca85-abd2-48a2-bd89-9a01f29e32fb.jpg)
+![Ayush Panda] <img src="https://user-images.githubusercontent.com/88286571/127991916-75e8ca85-abd2-48a2-bd89-9a01f29e32fb.jpg" width="200" height="200">
