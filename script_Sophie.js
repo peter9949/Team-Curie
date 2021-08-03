@@ -1,7 +1,6 @@
-// File Information: JavaScript file introducing name, email, slack and biostack
-// To run the program on terminal:
-// node Sophie.js
+#!/usr/local/bin/node
 
+// File Information: JavaScript file introducing name, email, slack and biostack
 
 const name = "Sophie Fang";
 const email = "fangx@bu.edu";
