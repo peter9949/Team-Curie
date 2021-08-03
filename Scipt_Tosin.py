@@ -1,4 +1,4 @@
-@@ -1,5 +1,5 @@
+@@ -1,6 +1,6 @@
 name: "Tosin Akinola"
 email: str = "tosin.akinola.at@gmail.com"
 slack_username: str = "@Tosin"
