@@ -2,7 +2,7 @@ HackBio internship helps life scientists to harness their potentials effectively
 
 About The Team: We are Curie Team, the group of people working together to achieve a common aim We are enthusiasts!.... We are setting the pace!.... We offer encouragement and Motivation....And we believe TeamWork makes the DreamWork #teamcurie
 
-Contributors - Names (Pictures if any !) to be listed starting from Team Lead Name , Bhuvan, Peter, Matthew, Sooraj, Sophie, Tasneem,Tosin, Umasri, Maansi
+Contributors - Names (Pictures if any !) to be listed starting from Team Lead Name , Bhuvan, Peter, Matthew, Sooraj, Sophie, Tasneem,Tosin, Umasri, Maansi, Darshana
 
 ![Bhuvan] <img src="https://user-images.githubusercontent.com/88160848/127892220-717ae827-93eb-4b40-9c62-db87f42c0506.png" width="200" height="200">
 
@@ -14,3 +14,4 @@ Contributors - Names (Pictures if any !) to be listed starting from Team Lead Na
 
 ![Umasri Sankarlal] <img src="https://user-images.githubusercontent.com/77769613/127956061-98baa36d-4052-4916-8c4c-ac995c26fc25.jpg" width="200" height="180">
 
+![Darshana Joshi] <img src="https://user-images.githubusercontent.com/83279269/127975947-e5a94358-1e88-4011-8261-61da4f35b40f.jpg" width="200" height="200">
