@@ -1,8 +1,8 @@
-HackBio internship helps life scientists to harness their potentials effectively in this genomic revolution using bioinformatics.
+HackBio internship helps life scientists to harness their potentials effectively in this genomic revolution using bioinformatics and computational biology skills.The hackbio internship2021 is a rigorous 5 weeks of science,research networking and social activities
 
 ## About The Team
 
-We are Curie Team, the group of people working together to achieve a common aim We are enthusiasts!.... We are setting the pace!.... We offer encouragement and Motivation....And we believe TeamWork makes the DreamWork #teamcurie
+We are Curie Team, A group of people working together to achieve a common aim... We are enthusiasts!... We are setting the pace!.... We offer encouragement and Motivation....And we believe TeamWork makes the DreamWork #teamcurie
 
 ## Contributors
 
