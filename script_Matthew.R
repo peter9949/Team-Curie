@@ -1,8 +1,4 @@
-print(c("name = Matthew Efoli", "email = matthewefoli@gmail.com", "slack username = @Matthew", "biostack = Data Science"))
+#!/usr/local/bin/Rscript
 
-#Alternatively
-
-print("name = Matthew Efoli")
-print("email = matthewefoli@gmail.com")
-print("slack = @Matthew")
-print("biostack = Data Science")
+my_details <-c("Matthew Efoli","matthewefoli@gmail.com","Data Science","@MatthewEfoli")
+cat(paste(my_details, collapse = ','))
