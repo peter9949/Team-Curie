@@ -1,8 +1,13 @@
-HackBio internship helps life scientists to harness their potentials effectively in this genomic revolution using bioinformatics.
+HackBio internship helps life scientists to harness their potentials effectively in this genomic revolution using bioinformatics and computational biology skills.The hackbio internship2021 is a rigorous 5 weeks of science,research networking and social activities
 
-About The Team: We are Curie Team, the group of people working together to achieve a common aim We are enthusiasts!.... We are setting the pace!.... We offer encouragement and Motivation....And we believe TeamWork makes the DreamWork #teamcurie
+## About The Team
 
-Contributors - Names (Pictures if any !) to be listed starting from Team Lead Name , Bhuvan, Peter, Matthew, Sooraj, Sophie, Tasneem,Tosin, Umasri, Maansi, Darshana, Ayush, Karteek
+We are TEAM CURIE... 
+A group of people working together to achieve a common aim... We are enthusiasts!... We are setting the pace!.... We offer encouragement and Motivation....And we believe TeamWork makes the DreamWork #teamcurie
+
+## Contributors
+
+Names (Pictures if any !) to be listed starting from Team Lead Name , Bhuvan, Peter, Matthew, Sooraj, Sophie, Tasneem,Tosin, Umasri, Maansi, Darshana, Ayush, Neha, Ananya
 
 ![Bhuvan] <img src="https://user-images.githubusercontent.com/88160848/127892220-717ae827-93eb-4b40-9c62-db87f42c0506.png" width="200" height="200">
 
@@ -20,4 +25,11 @@ Contributors - Names (Pictures if any !) to be listed starting from Team Lead Na
 
 ![Ayush Panda] <img src="https://user-images.githubusercontent.com/88286571/127991916-75e8ca85-abd2-48a2-bd89-9a01f29e32fb.jpg" width="200" height="200">
 
-![Karteek Akshinthala] <img src="https://user-images.githubusercontent.com/88286218/128034802-eb506767-ff19-48bf-82cb-80f35d4ac8fe.jpg" width="200" height="200">
+![Neha] <img src="https://user-images.githubusercontent.com/88286505/128015259-d34b43c1-aac3-4dbb-9b31-77673bc6c37d.jpg" width="200" height="200">
+
+![Ananya] <img src="https://user-images.githubusercontent.com/88286303/128016685-50b60d7f-c532-4856-93e6-57bb4173de6d.jpg" width="200" height="200">
+
+## Dependencies
+
+node: v14.8.0 <br/>
+python:
