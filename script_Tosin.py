@@ -1,5 +1,5 @@
 @@ -0,0 +1,5 @@
-name: "Tosin Akinola"
+name: str = "Tosin Akinola"
 email: str = "tosin.akinola.at@gmail.com"
 slack_username: str = "@Tosin"
 biostack = "drug development"
