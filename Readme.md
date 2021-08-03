@@ -10,6 +10,8 @@ Contributors - Names (Pictures if any !) to be listed starting from Team Lead Na
 
 (Sooraj S) <img src="https://user-images.githubusercontent.com/88287926/127906177-9284f2a4-1284-484e-b3a6-adf4d9be69af.jpg"  width="200" height="250">
 
+![Tasneem] <img src="https://user-images.githubusercontent.com/60441452/127982138-12478854-0de3-4b13-9884-0b93850f9aa5.jpg" width="200" height="250">
+
 ![Akinola Tosin] <img src="https://user-images.githubusercontent.com/88287437/127900471-77d70513-0639-47c2-8e22-03df0160479e.jpg" width="200" height="250">
 
 ![Umasri Sankarlal] <img src="https://user-images.githubusercontent.com/77769613/127956061-98baa36d-4052-4916-8c4c-ac995c26fc25.jpg" width="200" height="180">
