@@ -1,2 +1,4 @@
+#!/usr/bin/Rscript
+
 x <- c("Bhuvan Uthaiah Muruvanda","bhuvanuthaiah.18bt@kct.ac.in","@Bhuvan","genomics")
-paste(x, collapse = ",")
+cat(paste(x, collapse = ","))
