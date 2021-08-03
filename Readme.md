@@ -1,4 +1,3 @@
-![umasrisankarlal](https://user-images.githubusercontent.com/77769613/127956061-98baa36d-4052-4916-8c4c-ac995c26fc25.jpg)
 HackBio internship helps life scientists to harness their potentials effectively in this genomic revolution using bioinformatics.
 The Team: We are Curie Team, the group of people working together to achieve a common aim We are enthusiasts!.... We are setting the pace!.... We offer encouragement and Motivation....And we believe TeamWork makes the DreamWork #teamcurie
 Contributors - Names to be listed starting from Team Lead Name , Bhuvan, Peter, Matthew, Sooraj, Sophie, Tasneem,Tosin
@@ -12,5 +11,5 @@ Pictures - Pictures if any !
 ![Akinola Tosin] <img src="https://user-images.githubusercontent.com/88287437/127900471-77d70513-0639-47c2-8e22-03df0160479e.jpg" width="200" height="250">
 
 Umasri Sankarlal
-
+![umasrisankarlal](https://user-images.githubusercontent.com/77769613/127956061-98baa36d-4052-4916-8c4c-ac995c26fc25.jpg width="200" height="250")
 
