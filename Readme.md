@@ -13,6 +13,8 @@ Names (Pictures if any !) to be listed starting from Team Lead Name Amandeep, Bh
 
 ![Bhuvan] <img src="https://user-images.githubusercontent.com/88160848/127892220-717ae827-93eb-4b40-9c62-db87f42c0506.png" width="200" height="200">
 
+![Peter] <img src="https://user-images.githubusercontent.com/83517287/128063401-6ef81af4-58db-4914-a5f2-ce88555c44a8.jpg" width="200" height="200">
+
 ![Matthew Efoli] <img src="https://user-images.githubusercontent.com/46563295/127892474-7238db82-4fd8-442b-9d13-aedb8500adc8.jpg"  width="200" height="200">
 
 (Sooraj S) <img src="https://user-images.githubusercontent.com/88287926/127906177-9284f2a4-1284-484e-b3a6-adf4d9be69af.jpg"  width="200" height="250">
@@ -31,7 +33,7 @@ Names (Pictures if any !) to be listed starting from Team Lead Name Amandeep, Bh
 
 ![Ananya] <img src="https://user-images.githubusercontent.com/88286303/128016685-50b60d7f-c532-4856-93e6-57bb4173de6d.jpg" width="200" height="200">
 
-![Peter] <img src="https://user-images.githubusercontent.com/83517287/128063401-6ef81af4-58db-4914-a5f2-ce88555c44a8.jpg" width="200" height="200">
+
 
 
 ## Dependencies
