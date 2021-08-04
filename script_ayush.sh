@@ -1,3 +1,3 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
-echo "Ayush_Panda, ayush.panda@niser.ac.in, Drug, @Ayush, @Ayu02"
+echo "Ayush_Panda ayush.panda@niser.ac.in Drug @Ayush @Ayu02"
