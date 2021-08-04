@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+
 name = "Tosin Akinola"
 email = "tosin.akinola.at@gmail.com"
 slack_username = "@TosinAkinola"
