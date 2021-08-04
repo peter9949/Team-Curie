@@ -1,7 +1,7 @@
 #!/usr/local/bin/python3
 name = "Karteek Akshinthala"
 email = "askkarteek@gmail.com"
-slack_id = "@karteekakshinthala"
+slack_id = "@karteek"
 biostack = "Genomics"
 twitter = "teeeek7"
 def hammingDist(str1, str2):
