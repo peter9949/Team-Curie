@@ -4,7 +4,7 @@ email_id = "srivastava.maansi@gmail.com"
 slack_username = "@Maansi"
 biostack = "Transcriptomics"
 twitter = "@maansi"
- def hammingdist (slack_username, twitter) :
+def hammingdist (slack_username, twitter) :
 	i = 0
 	count =0
 	while (i < len (slack_username)):
