@@ -26,6 +26,10 @@ Matthew Efoli <br/>
 Sooraj S <br/>
 <img src="https://user-images.githubusercontent.com/88287926/127906177-9284f2a4-1284-484e-b3a6-adf4d9be69af.jpg"  width="200" height="250">
 
+Sophie <br/>
+<img src=https://user-images.githubusercontent.com/47069547/128254558-5e0b2426-d0d9-4529-b675-1480b27b2df7.jpeg width="200" height="250">
+
+
 Tasneem <br/>
 <img src="https://user-images.githubusercontent.com/60441452/127983889-6dcc6fd9-f995-418a-ba18-4b913fb614c3.jpg" width="200" height="250">
 
