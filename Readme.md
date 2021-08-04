@@ -33,6 +33,7 @@ Names (Pictures if any !) to be listed starting from Team Lead Name Amandeep, Bh
 
 ![Ananya] <img src="https://user-images.githubusercontent.com/88286303/128016685-50b60d7f-c532-4856-93e6-57bb4173de6d.jpg" width="200" height="200">
 
+![Karteek] <img src="(https://user-images.githubusercontent.com/88286218/128219626-a8a89080-2ac6-48db-8e5f-0e7e8f470510.jpg)" width="200" height="200">
 
 
 
