@@ -14,19 +14,23 @@ do
                 node $file >> $OUTPUT_FILE
         elif [[ $file == *.cpp ]];
               then
-                 g++ $file>> $OUTPUT_FILE
+                 g++ $file 
+                ./a.out >> $OUTPUT_FILE
+                rm a.out
         elif [[ $file == *.pl ]];
               then
                  perl $file>> $OUTPUT_FILE
         elif [[ $file == *.c ]];
               then
-                 gcc $file >> $OUTPUT_FILE
+                 gcc $file 
+                ./a.out >> $OUTPUT_FILE
+                rm a.out
         elif [[ $file == *.java ]];
               then
                  javac $file
                  name=`echo $file | cut -d\. -f1`
                  java $name>> $OUTPUT_FILE
-          
+       
         elif [[ $file == *.R ]];
 	      then
                 Rscript $file>> $OUTPUT_FILE  
