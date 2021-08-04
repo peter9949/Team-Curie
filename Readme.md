@@ -15,6 +15,14 @@ Amandeep (Team Lead), Bhuvan, Peter, Matthew, Sooraj, Sophie, Tasneem, Tosin, Um
 | ------------- | ------------- |
 | Amandeep      | Python        |
 | Content Cell  | Content Cell  |
+
+| Names | Programming Language used  | Picture  |
+| ------- | --- | --- |
+| Amandeeep | Python | <img src="https://user-images.githubusercontent.com/88246395/128064884-ed8f1453-611a-4cda-9890-777cd80d140b.jpg" width="200" height="200"> |
+| Seconds | 301 | 283 |
+| Seconds | 301 | 283 |
+| Seconds | 301 | 283 |
+
 Amandeep <br/>
 <img src="https://user-images.githubusercontent.com/88246395/128064884-ed8f1453-611a-4cda-9890-777cd80d140b.jpg" width="200" height="200">
 
