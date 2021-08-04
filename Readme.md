@@ -9,8 +9,12 @@ A diverse community working together to achieve a common aim... We are enthusias
 
 ## Contributors
 
-Names (Pictures if any !) to be listed starting from Team Lead Name Amandeep, Bhuvan, Peter, Matthew, Sooraj, Sophie, Tasneem,Tosin, Umasri, Maansi, Darshana, Ayush, Neha, Ananya
-
+Names
+Amandeep (Team Lead), Bhuvan, Peter, Matthew, Sooraj, Sophie, Tasneem, Tosin, Umasri, Maansi, Darshana, Ayush, Neha, Ananya
+| Names  | Programming language |
+| ------------- | ------------- |
+| Amandeep      | Python        |
+| Content Cell  | Content Cell  |
 Amandeep <br/>
 <img src="https://user-images.githubusercontent.com/88246395/128064884-ed8f1453-611a-4cda-9890-777cd80d140b.jpg" width="200" height="200">
 
