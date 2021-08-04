@@ -1,38 +1,38 @@
 #!/bin/bash
 REPO=https://github.com/peter9949/Team-Curie.git
+# NAME=$( $REPO|sed -r 's^./(.).git^\1^')
 OUTPUT_FILE=Team-Curie.csv
-git clone $REPO
-cd ./Team-Curie
+# git clone $REPO
+# cd ./Team-Curie
 
 for file in $(ls);
 do
         if [[ $file == *.py ]]; 
-	      then
+              then
                 python3 $file >> $OUTPUT_FILE
-      	elif [[ $file == *.js ]];
-	      then
+        elif [[ $file == *.js ]];
+              then
                 node $file >> $OUTPUT_FILE
         elif [[ $file == *.cpp ]];
               then
-                 g++ $file 
-                ./a.out >> $OUTPUT_FILE
-                rm a.out
+                 g++ $file    
+                 ./a.out >> $OUTPUT_FILE 
+                 rm ./a.out
         elif [[ $file == *.pl ]];
               then
-                 perl $file>> $OUTPUT_FILE
+                 perl $file  >> $OUTPUT_FILE
         elif [[ $file == *.c ]];
               then
-                 gcc $file 
-                ./a.out >> $OUTPUT_FILE
-                rm a.out
+                 gcc $file  >> $OUTPUT_FILE
         elif [[ $file == *.java ]];
               then
-                 javac $file
+                 javac $file   
                  name=`echo $file | cut -d\. -f1`
-                 java $name>> $OUTPUT_FILE
-       
+                 java $name  >> $OUTPUT_FILE
+          
         elif [[ $file == *.R ]];
-	      then
-                Rscript $file>> $OUTPUT_FILE  
-	fi
+              then
+                 Rscript $file >> $OUTPUT_FILE  
+        fi
 done
+

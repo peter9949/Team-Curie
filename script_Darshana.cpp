@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 int hammingDist(string slack, string twitter)
@@ -19,6 +19,6 @@ int main()
 	string slack = "@DarshanaJoshi";
 	string biostack = "Transcriptomics";
 	string twitter = "@darshana25999";
-	cout<<name<<", "<<email<<", "<<slack<<", "<<biostack<<", "<<twitter<<", "<<hammingDist(slack, twitter);
+	cout << name << ", " << email << ", " << slack << ", " << biostack << ", " << twitter << ", " << hammingDist(slack, twitter) << "\n";
 	return 0;
 }

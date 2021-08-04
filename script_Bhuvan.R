@@ -8,5 +8,5 @@ hamdist <- sum( twitter != slack)
 
 #final details print
 
-data1 <- c("Bhuvan Uthaiah Muruvanda","bhuvanuthaiah.18bt@kct.ac.in","@Bhuvan","genomics","@Bhuv88",hamdist)
+data1 <- c("Bhuvan Uthaiah Muruvanda","bhuvanuthaiah.18bt@kct.ac.in","@Bhuvan","genomics","@Bhuv88",hamdist, "\n")
 cat(paste(data1, collapse = ","))
