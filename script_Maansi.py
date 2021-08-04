@@ -14,5 +14,5 @@ def hammingdist (slack_username, twitter) :
 	return count
 
 hamming_distance = (hammingdist(slack_username, twitter))
-print("{}, {}, {}, {}, {}, {}".format(name, email, slack_username, biostack, twitter, hamming_distance))
+print("{}, {}, {}, {}, {}, {}".format(name, email_id, slack_username, biostack, twitter, hamming_distance))
 
