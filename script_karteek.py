@@ -5,7 +5,6 @@ slack_username = "@Karteek"
 biostack = "Genomics"
 twitter = "@teeeek7"
 print("{} {} {} {} {}".format(name, email_id, slack_username, biostack, twitter))
-© 2021 GitHub, Inc.
 def hammingDist(str1, str2):
     i = 0
     count = 0
