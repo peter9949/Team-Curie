@@ -7,8 +7,8 @@ biostack = "Transcriptomics"
 
 #Script that calculates hamming distance between slack username and twitter username
 name = "Peter Fassan"
-email: str = "fassankpeter@gmail.com"
-slack_username: str = "@Peter"
+email = "fassankpeter@gmail.com"
+slack_username = "@Peter"
 biostack = "Transcriptomics"
 twitter_id = "@Fkp99"
 
