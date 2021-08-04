@@ -1,4 +1,4 @@
-public class Sooraj
+public class script_sooraj
  {
   static int hammingDist(String str1, String str2)
   {
