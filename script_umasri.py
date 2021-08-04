@@ -2,7 +2,7 @@
 def member_details():
     name = "Umasri Sankarlal"
     email = "umasrisankarlal@gmail.com"
-    slackname = "@UmasriSankarla"
+    slackname = "@UmasriSankarlal"
     biostack = "Genomics"
     twitter_handle = "@Umasri52470207"
     hamming_distance = 8
