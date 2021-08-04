@@ -6,19 +6,19 @@ git clone $REPO
 cd $NAME
 sudo apt-get update
 #Download R
-sudo apt -y install r-base
+sudo apt-get -y install r-base
 #Download node
-sudo apt install nodejs
+sudo apt-get install nodejs
 #Download python
-sudo apt install python3.6
+sudo apt-get install python3.6
 #Download perl
-sudo apt install perl
+sudo apt-get install perl
 #Download c++
-sudo apt install g++
+sudo apt-get install g++
 #Download c
-sudo apt install gcc
+sudo apt-get install gcc
 #Download java
-sudo apt install openjdk-8-jre
+sudo apt-get install openjdk-8-jre
 for file in $(ls);
 do
         if [[ $file == *.py ]]; 
