@@ -5,7 +5,7 @@ def member_details():
     slackname = "@UmasriSankarlal"
     biostack = "Genomics"
     twittername = "@Umasri524702071"
-    print(name, email, slackname, biostack, twittername, sep=", ")
+   # print(name, email, slackname, biostack, twittername, sep=", ")
 member_details()
 
 #script with hamming distance calculation
