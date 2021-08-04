@@ -1,9 +1,9 @@
 #Script that prints my name, email, slack username and biostack
 name = "Peter Fassan"
-email: str = "fassankpeter@gmail.com"
-slack_username: str = "@Peter"
+email = "fassankpeter@gmail.com"
+slack_username = "@Peter"
 biostack = "Transcriptomics"
-print("{0}, {1}, {2}, {3}".format(name, email, slack_username, biostack))
+#print("{0}, {1}, {2}, {3}".format(name, email, slack_username, biostack))
 
 #Script that calculates hamming distance between slack username and twitter username
 name = "Peter Fassan"
