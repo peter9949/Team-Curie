@@ -1,8 +1,10 @@
-#!/usr/bin/env python3
+#!/usr/local/bin/python3
 def member_details():
     name = "Umasri Sankarlal"
     email = "umasrisankarlal@gmail.com"
-    slackname = "@UmasriSankarlal"
+    slackname = "@UmasriSankarla"
     biostack = "Genomics"
-    print(name, email, slackname, biostack, sep=", ")
+    twitter_handle = "@Umasri52470207"
+    hamming_distance = 8
+    print(name, email, slackname, biostack, twitter_handle, hamming_distance, sep=", ")
 member_details()
