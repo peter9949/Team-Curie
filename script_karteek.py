@@ -1,9 +1,11 @@
 #!/usr/local/bin/python3
 name = "Karteek Akshinthala"
-email = "askkarteek@gmail.com"
-slack_id = "@karteek"
+email_id = "askkarteek@gmail.com"
+slack_username = "@Karteek"
 biostack = "Genomics"
-twitter = "teeeek7"
+twitter = "@teeeek7"
+print("{} {} {} {} {}".format(name, email_id, slack_username, biostack, twitter))
+© 2021 GitHub, Inc.
 def hammingDist(str1, str2):
     i = 0
     count = 0
@@ -19,4 +21,4 @@ str1 = "Karteek"
 str2 = "teeeek7"
  
 # function call
-print(name, email, slack_id, biostack, twitter, hammingDist(str1, str2), sep=", ")
+print(hammingDist(str1, str2))
