@@ -12,7 +12,10 @@ cat(paste(my_details, collapse = ','))
 # Calculating the Hamming distance between my twitter_handle and slack user handles
 
 twitter_handle <- "@MatthewEfosa1"
-hamming_distance <- sum(twitter_handle != slack_id) #hamming distance
+
+slack <- c('M', 'a', 't', 't', 'h', 'e', 'w', 'E', 'f', 'o', 'l', 'i', '1')
+twitter <- c('M', 'a', 't', 't', 'h', 'e', 'w', 'E', 'f', 'o', 's', 'a', '1')
+hamming_distance <- sum(twitter != slack) #hamming distance
 
 details_update<- c(name, email, biostack, slack_id, twitter_handle, hamming_distance)
 cat(paste(details_update, collapse = ','))
