@@ -1,7 +1,7 @@
 #!/usr/local/bin/python3
 name = "Amandeep Kaur"
-email: str = "662amandeep@gmail.com"
-slack_username: str = "@Amandeep"
+email = "662amandeep@gmail.com"
+slack_username = "@Amandeep"
 biostack = "Genomics"
 twitter_id = "@Amankaur"
 def hammingdist (slack_username, twitter_id) :
@@ -14,4 +14,4 @@ def hammingdist (slack_username, twitter_id) :
 	return count
 
 hamming_distance = (hammingdist(slack_username, twitter_id))
-print("{} {} {} {} {} {}".format(name, email, slack_username, biostack, twitter_id, hamming_distance))
+print("{}, {}, {}, {}, {}, {}".format(name, email, slack_username, biostack, twitter_id, hamming_distance))
