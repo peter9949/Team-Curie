@@ -38,7 +38,9 @@ do
                 gcc $file >> $OUTPUT_FILE
         elif [[$file == *.java]];
         then
-                java $file>> $OUTPUT_FILE
+                javac $file
+                name=`echo $file | cut -d\. -f1`
+                java $name>> $OUTPUT_FILE
           
         elif [[ $file == *.R ]];
 	      then
