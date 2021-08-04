@@ -7,6 +7,6 @@ int main()
 	string email = "darshanajoshi762@gmail.com";
 	string slack = "@DarshanaJoshi";
 	string biostack = "Transcriptomics";
-	cout<<name<<","<<email<<","<<slack<<","<<biostack;
+	cout<<name<<", "<<email<<", "<<slack<<", "<<biostack;
 	return 0;
 }
