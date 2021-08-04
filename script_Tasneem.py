@@ -12,6 +12,7 @@ def hammingdist(Slack_username, Twitter_id ):
             count += 1
         i += 1
     return count
+intern_info = Name + ", " + Email + ", " + Slack_username + ", " + Biostack + ", " + Twitter_id + ", " + str(hammingdist(Slack_username, Twitter_id ))
  
-intern_info = Name + "," + Email + "," + Slack_username + "," + Biostack + "," + Twitter_id + "," + str(hammingdist(Slack_username, Twitter_id ))
+#intern_info = Name + "," + Email + "," + Slack_username + "," + Biostack + "," + Twitter_id + "," + str(hammingdist(Slack_username, Twitter_id ))
 print ( intern_info )
