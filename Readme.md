@@ -3,7 +3,7 @@ HackBio internship helps life scientists to harness their potentials effectively
 ## About The Team
 
 We are TEAM CURIE... 
-A group of people working together to achieve a common aim... We are enthusiasts!... We are setting the pace!.... We offer encouragement and Motivation....And we believe TeamWork makes the DreamWork #teamcurie
+A diverse community together to achieve a common aim... We are enthusiasts!... We are setting the pace!.... We offer encouragement and Motivation....And we believe TeamWork makes the DreamWork #teamcurie
 
 ## Contributors
 
