@@ -3,4 +3,15 @@ name = "Amandeep Kaur"
 email: str = "662amandeep@gmail.com"
 slack_username: str = "@Amandeep"
 biostack = "Genomics"
-print ("{0}, {1}, {2}, {3}".format(name, email, slack_username, biostack))
+twitter_id = "@Amankaur"
+def hammingdist (slack_username, twitter_id) :
+	i = 0
+	count =0
+	while (i < len (slack_username)):
+		if (slack_username [i] != twitter_id [i]) :
+			count +=1
+		i +=1
+	return count
+
+hamming_distance = (hammingdist(slack_username, twitter_id))
+print (name, email, slack_username,biostack, twitter_id, hamming_distance, sep =",")
