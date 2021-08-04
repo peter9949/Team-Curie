@@ -23,5 +23,5 @@ def hammingDist(slackname, twittername):
             count += 1
         i += 1
     return count
-hummingdistance = (hammingDist(slackname, twittername))
-print (name, email, slackname, biostack, twittername, hummingdistance, sep=", ")
+hammingdistance = (hammingDist(slackname, twittername))
+print (name, email, slackname, biostack, twittername, hammingdistance, sep=", ")
