@@ -4,7 +4,7 @@ email: str = "tosin.akinola.at@gmail.com"
 slack_username: str = "@TosinAkinola"
 biostack = "drug development"
 twitter_handle = "AkinolaTosinS"
-def hammingdist (slack_username, twitter_handle):
+def hamming_distance (slack_username, twitter_handle):
   i = 0
   count = 0
   
@@ -15,5 +15,4 @@ def hammingdist (slack_username, twitter_handle):
       return count
     
 hamming_distance = (hammimgdist(slack_username, twitter_username))
-print(name, email, slack_username, biostack,twitter_handle, hamming_distance, sep =", ")
-
+print ( "{}, {}, {}, {}, {}, {}" .format(name, email, slack_username, biostack,twitter_handle, hamming_distance))
