@@ -4,19 +4,16 @@ email: str = "tosin.akinola.at@gmail.com"
 slack_username: str = "@TosinAkinola"
 biostack = "drug development"
 twitter_handle = "AkinolaTosinS"
-def hamming_distance(str1, str2):
+def hammingdist (slack_username, twitter_handle):
   i = 0
   count = 0
   
-  while(i < lens(str1)):
-    if(str1[i] != str2[1]):
+  while(i < lens(slack_username)):
+    if(slack_username [i] != twitter_handle [1]):
       count += 1
       i +=1
       return count
     
-    # Driver code
-    str1 = "TosinAkinola"
-    str2 = "AkinolaTosinS"
-    
-    #function call
-print(name, email, slack_username, biostack,twitter_handle, hamming_distance(str1, str2), sep=", ")
+hamming_distance = (hammimgdist(slack_username, twitter_username))
+print(name, email, slack_username, biostack,twitter_handle, hamming_distance, sep =", ")
+
