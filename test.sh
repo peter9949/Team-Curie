@@ -29,13 +29,13 @@ do
                 node $file >> $OUTPUT_FILE
         elif [[$file == *.cpp]];
         then
-                c++ $file>> $OUTPUT_FILE
+                g++ $file>> $OUTPUT_FILE
         elif [[$file == *.pl]];
         then
-                Perl $file>> $OUTPUT_FILE
+                perl $file>> $OUTPUT_FILE
         elif [[$file == *.c]];
         then
-                c $file >> $OUTPUT_FILE
+                gcc $file >> $OUTPUT_FILE
         elif [[$file == *.java]];
         then
                 java $file>> $OUTPUT_FILE
