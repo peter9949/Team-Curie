@@ -1,4 +1,12 @@
 #!/usr/local/bin/Rscript
 
-x <- c("Bhuvan Uthaiah Muruvanda","bhuvanuthaiah.18bt@kct.ac.in","@Bhuvan","genomics","@Bhuv88","2")
-cat(paste(x, collapse = ","))
+#Calculating hamming distance
+
+slack <- c("B","h","u","v","a","n")
+twitter <- c("B","h","u","v","8","8")
+hamdist <- sum( twitter != slack)
+
+#final details print
+
+data1 <- c("Bhuvan Uthaiah Muruvanda","bhuvanuthaiah.18bt@kct.ac.in","@Bhuvan","genomics","@Bhuv88",hamdist)
+cat(paste(data1, collapse = ","))
