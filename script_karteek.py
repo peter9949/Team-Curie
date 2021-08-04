@@ -4,7 +4,7 @@ email_id = "askkarteek@gmail.com"
 slack_username = "@Karteek"
 biostack = "Genomics"
 twitter = "@teeeek7"
-print("{} {} {} {} {}".format(name, email_id, slack_username, biostack, twitter))
+#print("{} {} {} {} {}".format(name, email_id, slack_username, biostack, twitter))
 def hammingDist(str1, str2):
     i = 0
     count = 0
@@ -20,4 +20,6 @@ str1 = "Karteek"
 str2 = "teeeek7"
  
 # function call
-print(hammingDist(str1, str2))
+#print(hammingDist(str1, str2))
+print("{}, {}, {}, {}, {}, {}".format(name, email_id, slack_username, biostack, twitter, hammingDist(str1, str2)))
+
