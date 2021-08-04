@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def member_details():
     name = "Umasri Sankarlal"
     email = "umasrisankarlal@gmail.com"
