@@ -4,6 +4,6 @@ def member_details():
     email = "umasrisankarlal@gmail.com"
     slackname = "@UmasriSankarlal"
     biostack = "Genomics"
-    twittername = "@Umasri52470207"
+    twittername = "@Umasri524702071"
     print(name, email, slackname, biostack, twittername, sep=", ")
 member_details()
