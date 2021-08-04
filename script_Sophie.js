@@ -22,14 +22,14 @@ var hammingdistance = (slack, twitter) => {
 
 console.log(
   name +
-    ", " +
+    "," +
     email +
-    ", " +
+    "," +
     slack +
-    ", " +
+    "," +
     biostack +
-    ", " +
+    "," +
     twitter +
-    ", " +
+    "," +
     hammingdistance(slack, twitter)
 );

@@ -11,5 +11,5 @@ my $s1 =" Ananya";
 my $s2 =" 12Anu_";
 
 print ($name,$email,$slack_username,$biostack,$twitter_id);
-print " ", hd( $s1, $s2 );
+print " ", hd( $s1, $s2 ), "\n";
 sub hd{ length( $_[ 0 ] ) - ( ( $_[ 0 ] ^ $_[ 1 ] ) =~ tr[\0][\0] ) }
