@@ -27,6 +27,22 @@ We are Team Curie: A diverse community of students, researchers and professional
 5. perl v5.22.1 / v5.32.1
 6. Rscript 4.1.0
 7. javac 15.0.1 / javac 9-ea 
+```sudo apt-get update
+#Download R
+sudo apt-get -y install r-base
+#Download node
+sudo apt-get install nodejs
+#Download python
+sudo apt-get install python3.6
+#Download perl
+sudo apt-get install perl
+#Download c++
+sudo apt-get install g++
+#Download c
+sudo apt-get install gcc
+#Download java
+sudo apt-get install openjdk-8-jre
+```
 
 <img src="https://user-images.githubusercontent.com/88286571/128363646-1049a418-795e-446f-ac66-bc4e8671de50.png" width="250" height="310">
 
