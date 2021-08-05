@@ -1,6 +1,7 @@
-# Team Curie
+<h1 align="center"> 👨‍🔬💻 TEAM CURIE 💻👩‍🔬 </h1>
+<h3 align="center">🤓 The Curious Curies! 🤓</h3>
 
-HackBio internship helps life scientists to harness their postentials effectively in this genomic revolution using bioinformatics and computational biology skills.The hackbio internship2021 is a rigorous 5 weeks of science,research networking and social activities
+HackBio internship helps life scientists to harness their postentials effectively in this genomic revolution using bioinformatics and computational biology. The HackBio Internship-2021 is a rigorous 5 weeks of science, research, coding, networking and social activities.
 
 ## About The Team
 
