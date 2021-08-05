@@ -22,7 +22,9 @@ do
                  perl $file  >> $OUTPUT_FILE
         elif [[ $file == *.c ]];
               then
-                 gcc $file  >> $OUTPUT_FILE
+                 gcc $file    
+                 ./a.out >> $OUTPUT_FILE 
+                 rm ./a.out
         elif [[ $file == *.java ]];
               then
                  javac $file   
