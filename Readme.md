@@ -10,7 +10,7 @@ A diverse community working together to achieve a common aim... We are enthusias
 ## Contributors
 
 Names
-Amandeep (Team Lead), Bhuvan, Peter, Matthew, Sooraj, Sophie, Tasneem, Tosin, Umasri, Maansi, Darshana, Ayush, Neha, Ananya
+Amandeep (Team Lead), Bhuvan, Peter, Matthew, Sooraj, Sophie, Tasneem, Tosin, Umasri, Maansi, Darshana, Ayush, Neha, Ananya, Karteek
 
 | Names | Programming Language  | Picture  |
 | ------- | --- | --- |
