@@ -21,12 +21,12 @@ We are Team Curie: A diverse community of students, researchers and professional
 
 ## Dependencies
 1. node: v14.8.0 
-2. python:
+2. python3
 3. gcc 5.4.0 
 4. g++ 5.4.0  
-5. perl
+5. perl v5.22.1 / v5.32.1
 6. Rscript
-7. 
+7. java
 
 <img src="https://user-images.githubusercontent.com/88286571/128363646-1049a418-795e-446f-ac66-bc4e8671de50.png" width="250" height="310">
 
