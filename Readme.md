@@ -23,8 +23,10 @@ We are Team Curie: A diverse community of students, researchers and professional
 
 node: v14.8.0 <br/>
 python:
-gcc (Ubuntu 5.4.0-6ubuntu1~16.04.4) 5.4.0 20160609
-g++ (Ubuntu 5.4.0-6ubuntu1~16.04.4) 5.4.0 20160609
+
+gcc (Ubuntu 5.4.0-6ubuntu1 ~16.04.4) 5.4.0 20160609
+
+g++ (Ubuntu 5.4.0-6ubuntu1 ~16.04.4) 5.4.0 20160609
 
 
 ## Contributors
