@@ -11,7 +11,7 @@ twitter_hamdist <- c("q","a","m","R","Q") #Creates a vector of twitter name for 
 slack_hamdist <- c("Q","a","m","a","r")   #Creates a vector of slack name for Hamming Distance
 hamming_distance<- sum(twitter_hamdist != slack_hamdist) ##Creates variable hamming_distance and calculates number of different elements
 
-my_details<-c(name,email,slack,biostack,twitter_handle,hamming_distance)  #Creates variable my_details and combines previous variables in a list/vector
+my_details<-c(name,email,slack,biostack,twitter_handle,hamming_distance, "\n")  #Creates variable my_details and combines previous variables in a list/vector
 
 cat(paste(my_details, collapse = ',')) #Converts arguments to character strings and display my_details with seperator comma
 
