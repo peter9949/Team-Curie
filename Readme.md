@@ -25,8 +25,8 @@ We are Team Curie: A diverse community of students, researchers and professional
 3. gcc 5.4.0 
 4. g++ 5.4.0  
 5. perl v5.22.1 / v5.32.1
-6. Rscript
-7. java
+6. Rscript 4.1.0
+7. javac 15.0.1 / javac 9-ea 
 
 <img src="https://user-images.githubusercontent.com/88286571/128363646-1049a418-795e-446f-ac66-bc4e8671de50.png" width="250" height="310">
 
