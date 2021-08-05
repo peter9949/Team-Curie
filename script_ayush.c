@@ -21,7 +21,7 @@ int main()
 {
 
     int hamming_dist = hammingdist("@Ayush", "@Ayu02");
-    printf("Ayush Panda, ayush.panda@niser.ac.in, Drug Development, @Ayush, @Ayu02, %d", hamming_dist);
+    printf("Ayush Panda, ayush.panda@niser.ac.in, @Ayush, Drug Development, @Ayu02, %d \n", hamming_dist);
 
     return 0;
 }
