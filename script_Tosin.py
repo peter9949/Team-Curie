@@ -3,7 +3,7 @@ name = "Tosin Akinola"
 email = "tosin.akinola.at@gmail.com"
 slack_username = "@TosinAkinola"
 biostack = "drug development"
-twitter_handle = "AkinolaTosinS"
+twitter_handle = "@AkinolaTosin"
 def hamming_distance (slack_username, twitter_handle):
   i = 0
   count = 0
