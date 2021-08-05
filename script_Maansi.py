@@ -2,7 +2,7 @@
 name = "Maansi Srivastava"
 email_id = "srivastava.maansi@gmail.com"
 slack_username = "@Maansi"
-biostack = "Transcriptomics"
+biostack = "Drug Development"
 twitter = "@maansi"
 def hammingdist (slack_username, twitter) :
 	i = 0
