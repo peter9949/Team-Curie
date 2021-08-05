@@ -44,7 +44,6 @@ sudo apt-get install gcc
 sudo apt-get install openjdk-8-jre
 ```
 
-<img src="https://user-images.githubusercontent.com/88286571/128363646-1049a418-795e-446f-ac66-bc4e8671de50.png" width="250" height="310">
 
 
 
