@@ -3,7 +3,7 @@ name = "Amandeep Kaur"
 email = "662amandeep@gmail.com"
 slack_username = "@Amandeep"
 biostack = "Genomics"
-twitter_id = "@Amankaur"
+twitter_id = "@Amank662"
 def hammingdist (slack_username, twitter_id) :
 	i = 0
 	count =0
