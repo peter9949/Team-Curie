@@ -1,9 +1,8 @@
 #!/bin/bash
 REPO=https://github.com/peter9949/Team-Curie.git
-# NAME=$( $REPO|sed -r 's^./(.).git^\1^')
 OUTPUT_FILE=Team-Curie.csv
-# git clone $REPO
-# cd ./Team-Curie
+git clone $REPO
+cd ./Team-Curie
 
 for file in $(ls);
 do
