@@ -1,5 +1,5 @@
 <h1 align="center"> 👨‍🔬💻 TEAM CURIE 💻👩‍🔬 </h1>
-<h2 align="center"><img src="https://user-images.githubusercontent.com/77769613/128529264-15ca7d75-4685-4f7f-aae5-db7dd127557a.png" width="200" height="200"></h2>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/77769613/128529264-15ca7d75-4685-4f7f-aae5-db7dd127557a.png" width="200" height="100"></h2>
 <h3 align="center">🤓 The Curious Curies! 🤓</h3>
  <img src="https://user-images.githubusercontent.com/88286571/128334908-0c73caf4-bd18-400f-84d8-7c30eed4d8d6.jpg">
 HackBio internship helps life scientists to harness their postentials effectively in this genomic revolution using bioinformatics and computational biology. The HackBio Internship-2021 is a rigorous five weeks of science, research, coding, networking and social activities.
