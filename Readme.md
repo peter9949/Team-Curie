@@ -50,7 +50,7 @@ sudo apt-get install openjdk-8-jre
 ## Contributors
 
 Names
-Amandeep (Team Lead), Bhuvan, Peter, Matthew, Sooraj, Sophie, Tasneem, Tosin, Umasri, Maansi, Darshana, Ayush, Neha, Ananya, Karteek, Qamar
+Amandeep (Team Lead), Bhuvan, Peter, Matthew, Sooraj, Sophie, Tasneem, Tosin, Umasri, Maansi, Darshana, Ayush, Neha, Ananya, Karteek, Qamar, Rana
 
 | Names | Programming Language  | Picture  |
 | ------- | --- | --- |
@@ -70,6 +70,9 @@ Amandeep (Team Lead), Bhuvan, Peter, Matthew, Sooraj, Sophie, Tasneem, Tosin, Um
 | Ananya Saji| Perl | <img src="https://user-images.githubusercontent.com/88286303/128016685-50b60d7f-c532-4856-93e6-57bb4173de6d.jpg" width="200" height="200"> |
 | Karteek Akshinthala | Python | <img src="(https://user-images.githubusercontent.com/88286218/128219626-a8a89080-2ac6-48db-8e5f-0e7e8f470510.jpg)" width="200" height="200"> |
 | Qamar Raza Qadri | R | <img src="https://user-images.githubusercontent.com/78408875/128223927-2f77fa04-d8ac-4e80-9cf9-d9f48d63f381.jpg" width="200" height="200"> |
+| Rana Salah Khalel | Python | <img src="https://user-images.githubusercontent.com/67822771/128556985-2413462b-15b9-4968-9948-e164b44370ee.jpg" width="200" height="200"> |
+
+
 
 
 
