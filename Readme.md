@@ -5,7 +5,7 @@ HackBio internship helps life scientists to harness their postentials effectivel
 <h2 align="center"> 👨‍🔬💻 TEAM CURIE 💻👩‍🔬 </h2>
 <h3 align="center"><img src="https://user-images.githubusercontent.com/77769613/128529264-15ca7d75-4685-4f7f-aae5-db7dd127557a.png" width="200" height="80"></h3>
 <h4 align="center">🤓 The Curious Curies! 🤓</h4>
-We are Team Curie: A diverse community of students, researchers and professionals from all over the globe working together to hone our skills in bioinformatics and computational biology.  
+Our team is a diverse community of students, researchers and professionals from all over the globe working together to hone our skills in bioinformatics and computational biology.  
 
 ## The Task
 **The Spreadsheet project**
