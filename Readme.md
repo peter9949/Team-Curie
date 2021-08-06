@@ -1,11 +1,10 @@
-<h1 align="center"> 👨‍🔬💻 TEAM CURIE 💻👩‍🔬 </h1>
-<h2 align="center"><img src="https://user-images.githubusercontent.com/77769613/128529264-15ca7d75-4685-4f7f-aae5-db7dd127557a.png" width="200" height="80"></h2>
-<h3 align="center">🤓 The Curious Curies! 🤓</h3>
-<h4 align="center"><img src="https://user-images.githubusercontent.com/88286571/128334908-0c73caf4-bd18-400f-84d8-7c30eed4d8d6.jpg" width="200" height="100"></h4>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/88286571/128334908-0c73caf4-bd18-400f-84d8-7c30eed4d8d6.jpg" width="200" height="100"></h1>
 HackBio internship helps life scientists to harness their postentials effectively in this genomic revolution using bioinformatics and computational biology. The HackBio Internship-2021 is a rigorous five weeks of science, research, coding, networking and social activities.
 
 ## About The Team
-
+<h2 align="center"> 👨‍🔬💻 TEAM CURIE 💻👩‍🔬 </h2>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/77769613/128529264-15ca7d75-4685-4f7f-aae5-db7dd127557a.png" width="200" height="80"></h3>
+<h4 align="center">🤓 The Curious Curies! 🤓</h4>
 We are Team Curie: A diverse community of students, researchers and professionals from all over the globe working together to hone our skills in bioinformatics and computational biology.  
 
 ## The Task
