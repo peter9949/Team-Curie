@@ -44,7 +44,13 @@ sudo apt-get install gcc
 sudo apt-get install openjdk-8-jre
 ```
 
-
+## How to run the code
+1. Open a GNU text editor by typing the command "nano filename.sh" in terminal
+2. Copy and paste the code on TeamCurieCSV.sh in the GNU text editor.
+3. Go back to terminal (Ctrl+X -> Y -> Press Enter)
+4. Type "bash filename.sh" in the terminal. 
+5. Find a folder named "Team-Curie" in the present working directory.
+6. Enter the folder to find the CSV file named "Team-Curie.csv" !
 
 
 ## Contributors
